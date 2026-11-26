@@ -4,7 +4,7 @@ One Apache Beam pipeline, run as a batch job on two runners (the Beam DirectRunn
 
 **Live demo:** https://gerardrecinto.github.io/stream-pipeline-lab/ shows the recorded output: identical per-user, per-minute totals from both runners, and the on-time and late panes for a window that receives late data.
 
-Personal learning project. Local single-JVM runs only: no cluster, no load test, no production use.
+Runs locally on a single JVM.
 
 ## What is in it
 
